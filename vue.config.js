@@ -7,6 +7,6 @@ module.exports = {
     //     ca: fs.readFileSync('./caList/rootca.crt'),
     //   }
     // }
-    publicPath:process.env.NODE_ENV ==='production'?'/fcmTest/':'/',
+    publicPath:'/fcmTest/',
     outputDir:'docs'
   }
