@@ -8,5 +8,5 @@ module.exports = {
     //   }
     // }
     publicPath:'/fcmTest/',
-    // outputDir:'docs'
+    outputDir:'docs'
   }
