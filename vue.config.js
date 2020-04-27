@@ -6,7 +6,7 @@ module.exports = {
     //     cert: fs.readFileSync('./caList/domain.com.crt'),
     //     ca: fs.readFileSync('./caList/rootca.crt'),
     //   }
-    // }
+    // },
     publicPath:'/fcmTest/',
     outputDir:'docs'
   }

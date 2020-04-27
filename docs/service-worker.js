@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fcmTest/precache-manifest.d6981ccce857a7f6fbe3eca9da9a99f5.js"
+  "/fcmTest/precache-manifest.c6ec87af1ce9ca5deceab47241f92712.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fcm-demo"});
